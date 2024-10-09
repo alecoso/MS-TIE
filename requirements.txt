@@ -1,0 +1,11 @@
+matplotlib
+numpy
+scipy
+tqdm
+time
+math
+cupy
+cv2
+skimage
+pandas 
+
