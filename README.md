@@ -37,6 +37,8 @@ Each notebook contains the Python implementation of the following phase retrieva
   - Matrix Solution (MS) (our)
 
 
+The images in `./data/sim1` were taken from the simulations in the supplementary material of [3].
+
 Here are the references for the previous methods, credit to the authors.
 
 [1] D. Paganin and K. A. Nugent, “Noninterferometric phase imaging with partially coherent light,” Phys. review letters 80, 2586 (1998).
@@ -44,6 +46,7 @@ Here are the references for the previous methods, credit to the authors.
 [2] L. Huang, C. Zuo, M. Idir, W. Qu, and A. Asundi, “Phase retrieval with the transport-of-intensity equation in an arbitrarily shaped aperture by iterative discrete cosine transforms,” Opt. letters 40, 1976–1979 (2015).
 
 [3]  J. Zhang, Q. Chen, J. Sun, L. Tian, and C. Zuo, “On a universal solution to the transport-of-intensity equation,” Opt. Lett. 45, 3649–3652 (2020).
+
 
 ---
 ## Instructions
