@@ -1,4 +1,4 @@
-# MS-TIE
+# Matrix Solution (MS-TIE)
 GPU-optimized iterative phase retrieval method based on the TIE, called Matrix Solution to the TIE (MS-TIE)
 
 This project contains the Python implementation of the MS-TIE phase retrieval method, and it also compares this method with other state-of-the-art techniques. Python implementations of all these methods are provided.
