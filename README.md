@@ -32,12 +32,17 @@ The development of the notebooks was designed for execution in *Google Colab*. I
 Each notebook contains the Python implementation of the following phase retrieval methods:
 
   - FFT solution [1]
-  - iterDCT method [32]
-  - Universal Solution (US)  [3]
+  - iterDCT method [2]
+  - Universal Solution (US) [3]
   - Matrix Solution (MS) (our)
 
+
+Here are the references for the previous methods, credit to the authors.
+
 [1] D. Paganin and K. A. Nugent, “Noninterferometric phase imaging with partially coherent light,” Phys. review letters 80, 2586 (1998).
+
 [2] L. Huang, C. Zuo, M. Idir, W. Qu, and A. Asundi, “Phase retrieval with the transport-of-intensity equation in an arbitrarily shaped aperture by iterative discrete cosine transforms,” Opt. letters 40, 1976–1979 (2015).
+
 [3]  J. Zhang, Q. Chen, J. Sun, L. Tian, and C. Zuo, “On a universal solution to the transport-of-intensity equation,” Opt. Lett. 45, 3649–3652 (2020).
 
 ---
