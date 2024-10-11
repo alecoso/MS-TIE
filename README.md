@@ -49,6 +49,8 @@ Here are the references for the previous methods, credit to the authors.
 
 
 ---
+
+> .[!NOTE]
 ## Instructions
 
 To use the notebooks:
